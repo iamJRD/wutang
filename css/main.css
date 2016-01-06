@@ -23,3 +23,11 @@ p {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+.sidebar ul {
+  font-family: fantasy;
+  font-size: 30px;
+}
+.sidebar h1 {
+  font-family: cursive;
+  font-style: italic;
+}
